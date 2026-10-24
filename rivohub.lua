@@ -1,4 +1,3 @@
--- This file was generated at discord.gg/syncrypt
 
 local unpack_ = unpack or table.unpack
 local t1 = {
